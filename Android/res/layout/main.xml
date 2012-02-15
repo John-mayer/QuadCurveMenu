@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" >
+
+    <com.monzware.qcm.QuadCurveMenu
+        android:id="@+id/quadCurveMenu1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" >
+
+        <com.monzware.qcm.QuadCurveMenuItem
+            android:id="@+id/quadCurveaddMenu"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/bg_addbutton_highlighted" />
+
+        <com.monzware.qcm.QuadCurveMenuItem
+            android:id="@+id/quadCurveMenuItem1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/bg_menuitem" />
+
+        <com.monzware.qcm.QuadCurveMenuItem
+            android:id="@+id/quadCurveMenuItem2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/bg_menuitem" />
+        
+        <com.monzware.qcm.QuadCurveMenuItem
+            android:id="@+id/quadCurveMenuItem3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/bg_menuitem" />
+        
+        <com.monzware.qcm.QuadCurveMenuItem
+            android:id="@+id/quadCurveMenuItem4"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/bg_menuitem" />
+        
+        <com.monzware.qcm.QuadCurveMenuItem
+            android:id="@+id/quadCurveMenuItem5"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/bg_menuitem" />
+        
+        <com.monzware.qcm.QuadCurveMenuItem
+            android:id="@+id/quadCurveMenuItem6"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/bg_menuitem" />
+        
+        <com.monzware.qcm.QuadCurveMenuItem
+            android:id="@+id/quadCurveMenuItem7"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/bg_menuitem" />
+        
+        <com.monzware.qcm.QuadCurveMenuItem
+            android:id="@+id/quadCurveMenuItem8"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/bg_menuitem" />
+        
+        <com.monzware.qcm.QuadCurveMenuItem
+            android:id="@+id/quadCurveMenuItem9"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/bg_menuitem" />
+        
+        <com.monzware.qcm.QuadCurveMenuItem
+            android:id="@+id/quadCurveMenuItem10"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/bg_menuitem" />
+        
+        <com.monzware.qcm.QuadCurveMenuItem
+            android:id="@+id/quadCurveMenuItem11"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/bg_menuitem" />
+        
+        <com.monzware.qcm.QuadCurveMenuItem
+            android:id="@+id/quadCurveMenuIte12"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/bg_menuitem" />
+        
+         <com.monzware.qcm.QuadCurveMenuItem
+            android:id="@+id/quadCurveMenuIte13"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/bg_menuitem" />
+         
+          <com.monzware.qcm.QuadCurveMenuItem
+            android:id="@+id/quadCurveMenuIte14"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/bg_menuitem" />
+          
+           <com.monzware.qcm.QuadCurveMenuItem
+            android:id="@+id/quadCurveMenuIte15"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/bg_menuitem" />
+           
+            <com.monzware.qcm.QuadCurveMenuItem
+            android:id="@+id/quadCurveMenuIte16"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/bg_menuitem" />
+        
+    </com.monzware.qcm.QuadCurveMenu>
+
+</LinearLayout>
